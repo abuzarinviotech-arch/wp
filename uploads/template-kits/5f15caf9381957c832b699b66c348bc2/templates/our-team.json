@@ -1,0 +1,1892 @@
+{
+    "version": "0.4",
+    "title": "Our Team",
+    "type": "page",
+    "metadata": {
+        "template_type": "single-page",
+        "include_in_zip": "1",
+        "elementor_pro_required": null,
+        "wp_page_template": "elementor_header_footer"
+    },
+    "content": [
+        {
+            "id": "2f825f0e",
+            "settings": {
+                "structure": "21",
+                "background_background": "classic",
+                "background_repeat": "no-repeat",
+                "background_size": "cover",
+                "margin": {
+                    "unit": "em",
+                    "top": "-8",
+                    "right": 0,
+                    "bottom": "0",
+                    "left": 0,
+                    "isLinked": false
+                },
+                "background_xpos": {
+                    "unit": "%",
+                    "size": 100,
+                    "sizes": []
+                },
+                "background_overlay_background": "gradient",
+                "background_overlay_color": "#FFFFFF",
+                "background_overlay_color_stop": {
+                    "unit": "%",
+                    "size": 45,
+                    "sizes": []
+                },
+                "background_overlay_color_b": "#36363645",
+                "background_overlay_color_b_stop": {
+                    "unit": "%",
+                    "size": 22,
+                    "sizes": []
+                },
+                "background_overlay_gradient_angle": {
+                    "unit": "deg",
+                    "size": 70,
+                    "sizes": []
+                },
+                "background_overlay_opacity": {
+                    "unit": "px",
+                    "size": 1,
+                    "sizes": []
+                },
+                "__globals__": {
+                    "background_overlay_color": "",
+                    "background_overlay_color_b": "",
+                    "background_color": "globals\/colors?id=secondary"
+                },
+                "background_slideshow_gallery": [
+                    {
+                        "id": 182,
+                        "url": "http:\/\/elementor.doodlias.com\/startup\/wp-content\/uploads\/sites\/17\/2020\/11\/header.jpg"
+                    }
+                ],
+                "background_slideshow_background_size": "cover",
+                "background_slideshow_ken_burns": "yes",
+                "padding": {
+                    "unit": "em",
+                    "top": "6",
+                    "right": "1",
+                    "bottom": "6",
+                    "left": "1",
+                    "isLinked": false
+                },
+                "background_image": {
+                    "url": "http:\/\/elementor.doodlias.com\/startup\/wp-content\/uploads\/sites\/17\/2020\/11\/header.jpg",
+                    "id": 182
+                },
+                "background_position_tablet": "center center",
+                "background_xpos_mobile": {
+                    "unit": "px",
+                    "size": -33,
+                    "sizes": []
+                },
+                "background_image_mobile": {
+                    "url": "http:\/\/elementor.doodlias.com\/startup\/wp-content\/uploads\/sites\/17\/2020\/11\/blank.jpg",
+                    "id": 423
+                }
+            },
+            "elements": [
+                {
+                    "id": "6a60e617",
+                    "settings": {
+                        "_column_size": 33,
+                        "_inline_size": 39.12299999999999755573298898525536060333251953125,
+                        "padding": {
+                            "unit": "em",
+                            "top": "5",
+                            "right": "1",
+                            "bottom": "1",
+                            "left": "1",
+                            "isLinked": false
+                        },
+                        "z_index": 1
+                    },
+                    "elements": [
+                        {
+                            "id": "6093b581",
+                            "settings": {
+                                "title": "Our Team",
+                                "header_size": "h3",
+                                "__globals__": {
+                                    "title_color": "globals\/colors?id=primary",
+                                    "typography_typography": "globals\/typography?id=primary"
+                                },
+                                "_padding": {
+                                    "unit": "em",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "d788373",
+                            "settings": {
+                                "editor": "<p>Quisque cursus aliquet erat, a volutpat ligula efficitur nec. Proin odio ligula, elementum a sodales nec, pharetra imperdiet sapien.\u00a0<\/p>",
+                                "__globals__": {
+                                    "typography_typography": "globals\/typography?id=text",
+                                    "text_color": "globals\/colors?id=text"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "6936d416",
+                    "settings": {
+                        "_column_size": 66,
+                        "_inline_size": 60.48599999999999710098563809879124164581298828125,
+                        "content_position": "bottom",
+                        "align": "flex-end",
+                        "background_color": "#36363600",
+                        "background_color_stop": {
+                            "unit": "%",
+                            "size": 72,
+                            "sizes": []
+                        },
+                        "background_color_b": "#ED1C24",
+                        "background_color_b_stop": {
+                            "unit": "%",
+                            "size": 41,
+                            "sizes": []
+                        },
+                        "background_gradient_angle": {
+                            "unit": "deg",
+                            "size": 130,
+                            "sizes": []
+                        },
+                        "margin": {
+                            "unit": "em",
+                            "top": "",
+                            "right": "",
+                            "bottom": "",
+                            "left": "",
+                            "isLinked": false
+                        },
+                        "padding": {
+                            "unit": "em",
+                            "top": "",
+                            "right": "",
+                            "bottom": "",
+                            "left": "",
+                            "isLinked": false
+                        },
+                        "__globals__": {
+                            "background_color": "",
+                            "background_color_b": "globals\/colors?id=accent"
+                        }
+                    },
+                    "elements": [],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "6fb2e205",
+            "settings": {
+                "layout": "full_width",
+                "gap": "no",
+                "margin": {
+                    "unit": "em",
+                    "top": "-20",
+                    "right": 0,
+                    "bottom": "0",
+                    "left": 0,
+                    "isLinked": false
+                },
+                "z_index": 0
+            },
+            "elements": [
+                {
+                    "id": "5707fa82",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null
+                    },
+                    "elements": [
+                        {
+                            "id": "71e6ec3d",
+                            "settings": {
+                                "space": {
+                                    "unit": "em",
+                                    "size": 20,
+                                    "sizes": []
+                                },
+                                "_background_background": "gradient",
+                                "_background_color": "#36363600",
+                                "_background_color_stop": {
+                                    "unit": "%",
+                                    "size": 80,
+                                    "sizes": []
+                                },
+                                "_background_color_b": "#ED1C24",
+                                "_background_color_b_stop": {
+                                    "unit": "%",
+                                    "size": 67,
+                                    "sizes": []
+                                },
+                                "_background_gradient_angle": {
+                                    "unit": "deg",
+                                    "size": 150,
+                                    "sizes": []
+                                },
+                                "__globals__": {
+                                    "_background_color": "",
+                                    "_background_color_b": "globals\/colors?id=accent"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "spacer",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "258d78a1",
+            "settings": {
+                "padding": {
+                    "unit": "em",
+                    "top": "6",
+                    "right": "1",
+                    "bottom": "6",
+                    "left": "1",
+                    "isLinked": false
+                },
+                "__globals__": {
+                    "background_overlay_color": "",
+                    "background_overlay_color_b": "",
+                    "background_color": ""
+                },
+                "background_background": "classic",
+                "background_color": "#FBFBFB"
+            },
+            "elements": [
+                {
+                    "id": "2730f459",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null
+                    },
+                    "elements": [
+                        {
+                            "id": "349ec90e",
+                            "settings": {
+                                "title": "Our Team",
+                                "header_size": "h3",
+                                "align": "center",
+                                "__globals__": {
+                                    "typography_typography": "globals\/typography?id=primary",
+                                    "title_color": "globals\/colors?id=primary"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "1a80387f",
+                            "settings": {
+                                "align": "center",
+                                "__globals__": {
+                                    "typography_typography": "globals\/typography?id=text",
+                                    "text_color": "globals\/colors?id=text"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "2c65b0c7",
+                            "settings": {
+                                "structure": "30",
+                                "pp_display_conditions": [
+                                    {
+                                        "pp_condition_key": "authentication",
+                                        "pp_condition_operator": "is",
+                                        "pp_condition_authentication_value": "authenticated",
+                                        "_id": "b2249cc",
+                                        "pp_condition_user_value": "",
+                                        "pp_condition_role_value": "subscriber",
+                                        "pp_condition_page_value": "",
+                                        "pp_condition_post_value": "",
+                                        "pp_condition_static_page_value": "home",
+                                        "pp_condition_post_type_value": "",
+                                        "pp_condition_taxonomy_archive_value": "",
+                                        "pp_condition_term_archive_value": "",
+                                        "pp_condition_post_type_archive_value": "",
+                                        "pp_condition_date_archive_value": "",
+                                        "pp_condition_author_archive_value": "",
+                                        "pp_condition_search_results_value": "",
+                                        "pp_condition_date_value": "2020-06-27 to 2020-07-03",
+                                        "pp_condition_date_time_before_value": "2020-07-03 05:23",
+                                        "pp_condition_time_value": "",
+                                        "pp_condition_day_value": "1",
+                                        "pp_condition_os_value": "iphone",
+                                        "pp_condition_browser_value": "ie",
+                                        "pp_condition_search-bot_value": "all_search_bots"
+                                    }
+                                ],
+                                "margin": {
+                                    "unit": "em",
+                                    "top": "",
+                                    "right": 0,
+                                    "bottom": "",
+                                    "left": 0,
+                                    "isLinked": true
+                                },
+                                "padding": {
+                                    "unit": "em",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                }
+                            },
+                            "elements": [
+                                {
+                                    "id": "5cf1af74",
+                                    "settings": {
+                                        "_column_size": 33,
+                                        "_inline_size": null,
+                                        "padding": {
+                                            "unit": "em",
+                                            "top": "1",
+                                            "right": "1",
+                                            "bottom": "1",
+                                            "left": "1",
+                                            "isLinked": true
+                                        }
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "5eba5c6b",
+                                            "settings": {
+                                                "image": {
+                                                    "id": 72,
+                                                    "url": "http:\/\/elementor.doodlias.com\/startup\/wp-content\/uploads\/sites\/17\/2020\/11\/team2.jpg"
+                                                },
+                                                "team_member_name": "Lulu Gautreau",
+                                                "team_member_position": "Chief Executive Officer",
+                                                "team_member_social": [
+                                                    {
+                                                        "select_social_icon": {
+                                                            "value": "fab fa-facebook-f",
+                                                            "library": "fa-brands"
+                                                        },
+                                                        "social_link": {
+                                                            "url": "#",
+                                                            "is_external": "",
+                                                            "nofollow": "",
+                                                            "custom_attributes": ""
+                                                        },
+                                                        "_id": "1cca3dc"
+                                                    },
+                                                    {
+                                                        "select_social_icon": {
+                                                            "value": "fab fa-twitter",
+                                                            "library": "fa-brands"
+                                                        },
+                                                        "social_link": {
+                                                            "url": "#",
+                                                            "is_external": "",
+                                                            "nofollow": "",
+                                                            "custom_attributes": ""
+                                                        },
+                                                        "_id": "8064f13"
+                                                    },
+                                                    {
+                                                        "select_social_icon": {
+                                                            "value": "fab fa-instagram",
+                                                            "library": "fa-brands"
+                                                        },
+                                                        "social_link": {
+                                                            "url": "#",
+                                                            "is_external": "",
+                                                            "nofollow": "",
+                                                            "custom_attributes": ""
+                                                        },
+                                                        "_id": "45346bb"
+                                                    }
+                                                ],
+                                                "member_box_content_padding": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "member_name_margin": {
+                                                    "unit": "px",
+                                                    "size": 5,
+                                                    "sizes": []
+                                                },
+                                                "member_position_text_color": "#54595F",
+                                                "pp_display_conditions": [
+                                                    {
+                                                        "pp_condition_key": "authentication",
+                                                        "pp_condition_operator": "is",
+                                                        "pp_condition_authentication_value": "authenticated",
+                                                        "_id": "cff69c1",
+                                                        "pp_condition_user_value": "",
+                                                        "pp_condition_role_value": "subscriber",
+                                                        "pp_condition_page_value": "",
+                                                        "pp_condition_post_value": "",
+                                                        "pp_condition_static_page_value": "home",
+                                                        "pp_condition_post_type_value": "",
+                                                        "pp_condition_taxonomy_archive_value": "",
+                                                        "pp_condition_term_archive_value": "",
+                                                        "pp_condition_post_type_archive_value": "",
+                                                        "pp_condition_date_archive_value": "",
+                                                        "pp_condition_author_archive_value": "",
+                                                        "pp_condition_search_results_value": "",
+                                                        "pp_condition_date_value": "2020-06-27 to 2020-07-03",
+                                                        "pp_condition_date_time_before_value": "2020-07-03 05:23",
+                                                        "pp_condition_time_value": "",
+                                                        "pp_condition_day_value": "1",
+                                                        "pp_condition_os_value": "iphone",
+                                                        "pp_condition_browser_value": "ie",
+                                                        "pp_condition_search-bot_value": "all_search_bots"
+                                                    }
+                                                ],
+                                                "member_title_divider": "",
+                                                "member_position_divider": "",
+                                                "member_box_alignment": "center",
+                                                "member_image_width": {
+                                                    "unit": "%",
+                                                    "size": "",
+                                                    "sizes": []
+                                                },
+                                                "member_image_border_border": "solid",
+                                                "member_image_border_width": {
+                                                    "unit": "px",
+                                                    "top": "10",
+                                                    "right": "10",
+                                                    "bottom": "10",
+                                                    "left": "10",
+                                                    "isLinked": true
+                                                },
+                                                "member_image_border_radius": {
+                                                    "unit": "%",
+                                                    "top": "100",
+                                                    "right": "100",
+                                                    "bottom": "100",
+                                                    "left": "100",
+                                                    "isLinked": true
+                                                },
+                                                "name_divider_style": "dotted",
+                                                "name_divider_width": {
+                                                    "unit": "px",
+                                                    "size": 30,
+                                                    "sizes": []
+                                                },
+                                                "name_divider_height": {
+                                                    "unit": "px",
+                                                    "size": 6,
+                                                    "sizes": []
+                                                },
+                                                "name_divider_margin": {
+                                                    "unit": "px",
+                                                    "size": 12,
+                                                    "sizes": []
+                                                },
+                                                "member_position_margin": {
+                                                    "unit": "px",
+                                                    "size": 15,
+                                                    "sizes": []
+                                                },
+                                                "member_icons_gap": {
+                                                    "unit": "px",
+                                                    "size": 24,
+                                                    "sizes": []
+                                                },
+                                                "member_icon_size": {
+                                                    "unit": "px",
+                                                    "size": 18,
+                                                    "sizes": []
+                                                },
+                                                "member_links_icons_color": "#FFB400",
+                                                "__globals__": {
+                                                    "member_image_border_color": "globals\/colors?id=accent",
+                                                    "member_position_text_color": "globals\/colors?id=accent",
+                                                    "member_position_typography_typography": "globals\/typography?id=text",
+                                                    "member_links_icons_color": "globals\/colors?id=accent",
+                                                    "member_name_typography_typography": "globals\/typography?id=primary",
+                                                    "member_name_text_color": "globals\/colors?id=primary",
+                                                    "member_links_icons_color_hover": "globals\/colors?id=primary",
+                                                    "overlay_background_color": "globals\/colors?id=secondary",
+                                                    "member_description_text_color": "globals\/colors?id=text",
+                                                    "member_description_typography_typography": "globals\/typography?id=text"
+                                                },
+                                                "member_name_text_color": "#BA33C1",
+                                                "image_size": "full",
+                                                "name_html_tag": "h6",
+                                                "overlay_background_background": "classic",
+                                                "overlay_opacity": {
+                                                    "unit": "px",
+                                                    "size": 0.59999999999999997779553950749686919152736663818359375,
+                                                    "sizes": []
+                                                },
+                                                "team_member_description": "<p>Curabitur ac purus vel sem mattis eleifend quis non ligula.<\/p>",
+                                                "member_description_margin": {
+                                                    "unit": "px",
+                                                    "size": 28,
+                                                    "sizes": []
+                                                },
+                                                "_padding": {
+                                                    "unit": "em",
+                                                    "top": "1",
+                                                    "right": "1",
+                                                    "bottom": "1",
+                                                    "left": "1",
+                                                    "isLinked": true
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "pp-team-member",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "4fe2c35d",
+                                    "settings": {
+                                        "_column_size": 33,
+                                        "_inline_size": null,
+                                        "padding": {
+                                            "unit": "em",
+                                            "top": "1",
+                                            "right": "1",
+                                            "bottom": "1",
+                                            "left": "1",
+                                            "isLinked": true
+                                        }
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "1ba8c315",
+                                            "settings": {
+                                                "image": {
+                                                    "id": 71,
+                                                    "url": "http:\/\/elementor.doodlias.com\/startup\/wp-content\/uploads\/sites\/17\/2020\/11\/team1.jpg"
+                                                },
+                                                "team_member_name": "Samuel Richie",
+                                                "team_member_position": "Chief Operating Officer",
+                                                "team_member_social": [
+                                                    {
+                                                        "select_social_icon": {
+                                                            "value": "fab fa-facebook-f",
+                                                            "library": "fa-brands"
+                                                        },
+                                                        "social_link": {
+                                                            "url": "#",
+                                                            "is_external": "",
+                                                            "nofollow": "",
+                                                            "custom_attributes": ""
+                                                        },
+                                                        "_id": "1cca3dc"
+                                                    },
+                                                    {
+                                                        "select_social_icon": {
+                                                            "value": "fab fa-twitter",
+                                                            "library": "fa-brands"
+                                                        },
+                                                        "social_link": {
+                                                            "url": "#",
+                                                            "is_external": "",
+                                                            "nofollow": "",
+                                                            "custom_attributes": ""
+                                                        },
+                                                        "_id": "8064f13"
+                                                    },
+                                                    {
+                                                        "select_social_icon": {
+                                                            "value": "fab fa-instagram",
+                                                            "library": "fa-brands"
+                                                        },
+                                                        "social_link": {
+                                                            "url": "#",
+                                                            "is_external": "",
+                                                            "nofollow": "",
+                                                            "custom_attributes": ""
+                                                        },
+                                                        "_id": "45346bb"
+                                                    }
+                                                ],
+                                                "member_box_content_padding": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "member_name_margin": {
+                                                    "unit": "px",
+                                                    "size": 5,
+                                                    "sizes": []
+                                                },
+                                                "member_position_text_color": "#54595F",
+                                                "pp_display_conditions": [
+                                                    {
+                                                        "pp_condition_key": "authentication",
+                                                        "pp_condition_operator": "is",
+                                                        "pp_condition_authentication_value": "authenticated",
+                                                        "_id": "cff69c1",
+                                                        "pp_condition_user_value": "",
+                                                        "pp_condition_role_value": "subscriber",
+                                                        "pp_condition_page_value": "",
+                                                        "pp_condition_post_value": "",
+                                                        "pp_condition_static_page_value": "home",
+                                                        "pp_condition_post_type_value": "",
+                                                        "pp_condition_taxonomy_archive_value": "",
+                                                        "pp_condition_term_archive_value": "",
+                                                        "pp_condition_post_type_archive_value": "",
+                                                        "pp_condition_date_archive_value": "",
+                                                        "pp_condition_author_archive_value": "",
+                                                        "pp_condition_search_results_value": "",
+                                                        "pp_condition_date_value": "2020-06-27 to 2020-07-03",
+                                                        "pp_condition_date_time_before_value": "2020-07-03 05:23",
+                                                        "pp_condition_time_value": "",
+                                                        "pp_condition_day_value": "1",
+                                                        "pp_condition_os_value": "iphone",
+                                                        "pp_condition_browser_value": "ie",
+                                                        "pp_condition_search-bot_value": "all_search_bots"
+                                                    }
+                                                ],
+                                                "member_title_divider": "",
+                                                "member_position_divider": "",
+                                                "member_box_alignment": "center",
+                                                "member_image_width": {
+                                                    "unit": "%",
+                                                    "size": "",
+                                                    "sizes": []
+                                                },
+                                                "member_image_border_border": "solid",
+                                                "member_image_border_width": {
+                                                    "unit": "px",
+                                                    "top": "10",
+                                                    "right": "10",
+                                                    "bottom": "10",
+                                                    "left": "10",
+                                                    "isLinked": true
+                                                },
+                                                "member_image_border_radius": {
+                                                    "unit": "%",
+                                                    "top": "100",
+                                                    "right": "100",
+                                                    "bottom": "100",
+                                                    "left": "100",
+                                                    "isLinked": true
+                                                },
+                                                "name_divider_style": "dotted",
+                                                "name_divider_width": {
+                                                    "unit": "px",
+                                                    "size": 30,
+                                                    "sizes": []
+                                                },
+                                                "name_divider_height": {
+                                                    "unit": "px",
+                                                    "size": 6,
+                                                    "sizes": []
+                                                },
+                                                "name_divider_margin": {
+                                                    "unit": "px",
+                                                    "size": 12,
+                                                    "sizes": []
+                                                },
+                                                "member_position_margin": {
+                                                    "unit": "px",
+                                                    "size": 15,
+                                                    "sizes": []
+                                                },
+                                                "member_icons_gap": {
+                                                    "unit": "px",
+                                                    "size": 24,
+                                                    "sizes": []
+                                                },
+                                                "member_icon_size": {
+                                                    "unit": "px",
+                                                    "size": 18,
+                                                    "sizes": []
+                                                },
+                                                "member_links_icons_color": "#FFB400",
+                                                "__globals__": {
+                                                    "member_image_border_color": "globals\/colors?id=accent",
+                                                    "member_position_text_color": "globals\/colors?id=accent",
+                                                    "member_position_typography_typography": "globals\/typography?id=text",
+                                                    "member_links_icons_color": "globals\/colors?id=accent",
+                                                    "member_name_typography_typography": "globals\/typography?id=primary",
+                                                    "member_name_text_color": "globals\/colors?id=primary",
+                                                    "member_links_icons_color_hover": "globals\/colors?id=primary",
+                                                    "overlay_background_color": "globals\/colors?id=secondary",
+                                                    "member_description_text_color": "globals\/colors?id=text",
+                                                    "member_description_typography_typography": "globals\/typography?id=text"
+                                                },
+                                                "member_name_text_color": "#BA33C1",
+                                                "image_size": "full",
+                                                "name_html_tag": "h6",
+                                                "overlay_background_background": "classic",
+                                                "overlay_opacity": {
+                                                    "unit": "px",
+                                                    "size": 0.59999999999999997779553950749686919152736663818359375,
+                                                    "sizes": []
+                                                },
+                                                "team_member_description": "<p>Curabitur ac purus vel sem mattis eleifend quis non ligula.<\/p>",
+                                                "member_description_margin": {
+                                                    "unit": "px",
+                                                    "size": 28,
+                                                    "sizes": []
+                                                },
+                                                "_padding": {
+                                                    "unit": "em",
+                                                    "top": "1",
+                                                    "right": "1",
+                                                    "bottom": "1",
+                                                    "left": "1",
+                                                    "isLinked": true
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "pp-team-member",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "2eb50a7b",
+                                    "settings": {
+                                        "_column_size": 33,
+                                        "_inline_size": null,
+                                        "padding": {
+                                            "unit": "em",
+                                            "top": "1",
+                                            "right": "1",
+                                            "bottom": "1",
+                                            "left": "1",
+                                            "isLinked": true
+                                        }
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "6a06988d",
+                                            "settings": {
+                                                "image": {
+                                                    "id": 61,
+                                                    "url": "http:\/\/elementor.doodlias.com\/startup\/wp-content\/uploads\/sites\/17\/2020\/11\/team3.jpg"
+                                                },
+                                                "team_member_name": "Mira Serechova",
+                                                "team_member_position": "Information Technology",
+                                                "team_member_social": [
+                                                    {
+                                                        "select_social_icon": {
+                                                            "value": "fab fa-facebook-f",
+                                                            "library": "fa-brands"
+                                                        },
+                                                        "social_link": {
+                                                            "url": "#",
+                                                            "is_external": "",
+                                                            "nofollow": "",
+                                                            "custom_attributes": ""
+                                                        },
+                                                        "_id": "1cca3dc"
+                                                    },
+                                                    {
+                                                        "select_social_icon": {
+                                                            "value": "fab fa-twitter",
+                                                            "library": "fa-brands"
+                                                        },
+                                                        "social_link": {
+                                                            "url": "#",
+                                                            "is_external": "",
+                                                            "nofollow": "",
+                                                            "custom_attributes": ""
+                                                        },
+                                                        "_id": "8064f13"
+                                                    },
+                                                    {
+                                                        "select_social_icon": {
+                                                            "value": "fab fa-instagram",
+                                                            "library": "fa-brands"
+                                                        },
+                                                        "social_link": {
+                                                            "url": "#",
+                                                            "is_external": "",
+                                                            "nofollow": "",
+                                                            "custom_attributes": ""
+                                                        },
+                                                        "_id": "45346bb"
+                                                    }
+                                                ],
+                                                "member_box_content_padding": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "member_name_margin": {
+                                                    "unit": "px",
+                                                    "size": 5,
+                                                    "sizes": []
+                                                },
+                                                "member_position_text_color": "#54595F",
+                                                "pp_display_conditions": [
+                                                    {
+                                                        "pp_condition_key": "authentication",
+                                                        "pp_condition_operator": "is",
+                                                        "pp_condition_authentication_value": "authenticated",
+                                                        "_id": "cff69c1",
+                                                        "pp_condition_user_value": "",
+                                                        "pp_condition_role_value": "subscriber",
+                                                        "pp_condition_page_value": "",
+                                                        "pp_condition_post_value": "",
+                                                        "pp_condition_static_page_value": "home",
+                                                        "pp_condition_post_type_value": "",
+                                                        "pp_condition_taxonomy_archive_value": "",
+                                                        "pp_condition_term_archive_value": "",
+                                                        "pp_condition_post_type_archive_value": "",
+                                                        "pp_condition_date_archive_value": "",
+                                                        "pp_condition_author_archive_value": "",
+                                                        "pp_condition_search_results_value": "",
+                                                        "pp_condition_date_value": "2020-06-27 to 2020-07-03",
+                                                        "pp_condition_date_time_before_value": "2020-07-03 05:23",
+                                                        "pp_condition_time_value": "",
+                                                        "pp_condition_day_value": "1",
+                                                        "pp_condition_os_value": "iphone",
+                                                        "pp_condition_browser_value": "ie",
+                                                        "pp_condition_search-bot_value": "all_search_bots"
+                                                    }
+                                                ],
+                                                "member_title_divider": "",
+                                                "member_position_divider": "",
+                                                "member_box_alignment": "center",
+                                                "member_image_width": {
+                                                    "unit": "%",
+                                                    "size": "",
+                                                    "sizes": []
+                                                },
+                                                "member_image_border_border": "solid",
+                                                "member_image_border_width": {
+                                                    "unit": "px",
+                                                    "top": "10",
+                                                    "right": "10",
+                                                    "bottom": "10",
+                                                    "left": "10",
+                                                    "isLinked": true
+                                                },
+                                                "member_image_border_radius": {
+                                                    "unit": "%",
+                                                    "top": "100",
+                                                    "right": "100",
+                                                    "bottom": "100",
+                                                    "left": "100",
+                                                    "isLinked": true
+                                                },
+                                                "name_divider_style": "dotted",
+                                                "name_divider_width": {
+                                                    "unit": "px",
+                                                    "size": 30,
+                                                    "sizes": []
+                                                },
+                                                "name_divider_height": {
+                                                    "unit": "px",
+                                                    "size": 6,
+                                                    "sizes": []
+                                                },
+                                                "name_divider_margin": {
+                                                    "unit": "px",
+                                                    "size": 12,
+                                                    "sizes": []
+                                                },
+                                                "member_position_margin": {
+                                                    "unit": "px",
+                                                    "size": 15,
+                                                    "sizes": []
+                                                },
+                                                "member_icons_gap": {
+                                                    "unit": "px",
+                                                    "size": 24,
+                                                    "sizes": []
+                                                },
+                                                "member_icon_size": {
+                                                    "unit": "px",
+                                                    "size": 18,
+                                                    "sizes": []
+                                                },
+                                                "member_links_icons_color": "#FFB400",
+                                                "__globals__": {
+                                                    "member_image_border_color": "globals\/colors?id=accent",
+                                                    "member_position_text_color": "globals\/colors?id=accent",
+                                                    "member_position_typography_typography": "globals\/typography?id=text",
+                                                    "member_links_icons_color": "globals\/colors?id=accent",
+                                                    "member_name_typography_typography": "globals\/typography?id=primary",
+                                                    "member_name_text_color": "globals\/colors?id=primary",
+                                                    "member_links_icons_color_hover": "globals\/colors?id=primary",
+                                                    "overlay_background_color": "globals\/colors?id=secondary",
+                                                    "member_description_text_color": "globals\/colors?id=text",
+                                                    "member_description_typography_typography": "globals\/typography?id=text"
+                                                },
+                                                "member_name_text_color": "#BA33C1",
+                                                "image_size": "full",
+                                                "name_html_tag": "h6",
+                                                "overlay_background_background": "classic",
+                                                "overlay_opacity": {
+                                                    "unit": "px",
+                                                    "size": 0.59999999999999997779553950749686919152736663818359375,
+                                                    "sizes": []
+                                                },
+                                                "team_member_description": "<p>Curabitur ac purus vel sem mattis eleifend quis non ligula.<\/p>",
+                                                "member_description_margin": {
+                                                    "unit": "px",
+                                                    "size": 28,
+                                                    "sizes": []
+                                                },
+                                                "_padding": {
+                                                    "unit": "em",
+                                                    "top": "1",
+                                                    "right": "1",
+                                                    "bottom": "1",
+                                                    "left": "1",
+                                                    "isLinked": true
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "pp-team-member",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "section"
+                        },
+                        {
+                            "id": "6e65895",
+                            "settings": {
+                                "structure": "30",
+                                "pp_display_conditions": [
+                                    {
+                                        "pp_condition_key": "authentication",
+                                        "pp_condition_operator": "is",
+                                        "pp_condition_authentication_value": "authenticated",
+                                        "_id": "b2249cc",
+                                        "pp_condition_user_value": "",
+                                        "pp_condition_role_value": "subscriber",
+                                        "pp_condition_page_value": "",
+                                        "pp_condition_post_value": "",
+                                        "pp_condition_static_page_value": "home",
+                                        "pp_condition_post_type_value": "",
+                                        "pp_condition_taxonomy_archive_value": "",
+                                        "pp_condition_term_archive_value": "",
+                                        "pp_condition_post_type_archive_value": "",
+                                        "pp_condition_date_archive_value": "",
+                                        "pp_condition_author_archive_value": "",
+                                        "pp_condition_search_results_value": "",
+                                        "pp_condition_date_value": "2020-06-27 to 2020-07-03",
+                                        "pp_condition_date_time_before_value": "2020-07-03 05:23",
+                                        "pp_condition_time_value": "",
+                                        "pp_condition_day_value": "1",
+                                        "pp_condition_os_value": "iphone",
+                                        "pp_condition_browser_value": "ie",
+                                        "pp_condition_search-bot_value": "all_search_bots"
+                                    }
+                                ],
+                                "margin": {
+                                    "unit": "em",
+                                    "top": "",
+                                    "right": 0,
+                                    "bottom": "",
+                                    "left": 0,
+                                    "isLinked": true
+                                },
+                                "padding": {
+                                    "unit": "em",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                }
+                            },
+                            "elements": [
+                                {
+                                    "id": "54042576",
+                                    "settings": {
+                                        "_column_size": 33,
+                                        "_inline_size": null,
+                                        "padding": {
+                                            "unit": "em",
+                                            "top": "1",
+                                            "right": "1",
+                                            "bottom": "1",
+                                            "left": "1",
+                                            "isLinked": true
+                                        }
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "3abc1304",
+                                            "settings": {
+                                                "image": {
+                                                    "id": 396,
+                                                    "url": "http:\/\/elementor.doodlias.com\/startup\/wp-content\/uploads\/sites\/17\/2020\/11\/team5.jpg"
+                                                },
+                                                "team_member_name": "Susan Martines",
+                                                "team_member_position": "Business Development",
+                                                "team_member_social": [
+                                                    {
+                                                        "select_social_icon": {
+                                                            "value": "fab fa-facebook-f",
+                                                            "library": "fa-brands"
+                                                        },
+                                                        "social_link": {
+                                                            "url": "#",
+                                                            "is_external": "",
+                                                            "nofollow": "",
+                                                            "custom_attributes": ""
+                                                        },
+                                                        "_id": "1cca3dc"
+                                                    },
+                                                    {
+                                                        "select_social_icon": {
+                                                            "value": "fab fa-twitter",
+                                                            "library": "fa-brands"
+                                                        },
+                                                        "social_link": {
+                                                            "url": "#",
+                                                            "is_external": "",
+                                                            "nofollow": "",
+                                                            "custom_attributes": ""
+                                                        },
+                                                        "_id": "8064f13"
+                                                    },
+                                                    {
+                                                        "select_social_icon": {
+                                                            "value": "fab fa-instagram",
+                                                            "library": "fa-brands"
+                                                        },
+                                                        "social_link": {
+                                                            "url": "#",
+                                                            "is_external": "",
+                                                            "nofollow": "",
+                                                            "custom_attributes": ""
+                                                        },
+                                                        "_id": "45346bb"
+                                                    }
+                                                ],
+                                                "member_box_content_padding": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "member_name_margin": {
+                                                    "unit": "px",
+                                                    "size": 5,
+                                                    "sizes": []
+                                                },
+                                                "member_position_text_color": "#54595F",
+                                                "pp_display_conditions": [
+                                                    {
+                                                        "pp_condition_key": "authentication",
+                                                        "pp_condition_operator": "is",
+                                                        "pp_condition_authentication_value": "authenticated",
+                                                        "_id": "cff69c1",
+                                                        "pp_condition_user_value": "",
+                                                        "pp_condition_role_value": "subscriber",
+                                                        "pp_condition_page_value": "",
+                                                        "pp_condition_post_value": "",
+                                                        "pp_condition_static_page_value": "home",
+                                                        "pp_condition_post_type_value": "",
+                                                        "pp_condition_taxonomy_archive_value": "",
+                                                        "pp_condition_term_archive_value": "",
+                                                        "pp_condition_post_type_archive_value": "",
+                                                        "pp_condition_date_archive_value": "",
+                                                        "pp_condition_author_archive_value": "",
+                                                        "pp_condition_search_results_value": "",
+                                                        "pp_condition_date_value": "2020-06-27 to 2020-07-03",
+                                                        "pp_condition_date_time_before_value": "2020-07-03 05:23",
+                                                        "pp_condition_time_value": "",
+                                                        "pp_condition_day_value": "1",
+                                                        "pp_condition_os_value": "iphone",
+                                                        "pp_condition_browser_value": "ie",
+                                                        "pp_condition_search-bot_value": "all_search_bots"
+                                                    }
+                                                ],
+                                                "member_title_divider": "",
+                                                "member_position_divider": "",
+                                                "member_box_alignment": "center",
+                                                "member_image_width": {
+                                                    "unit": "%",
+                                                    "size": "",
+                                                    "sizes": []
+                                                },
+                                                "member_image_border_border": "solid",
+                                                "member_image_border_width": {
+                                                    "unit": "px",
+                                                    "top": "10",
+                                                    "right": "10",
+                                                    "bottom": "10",
+                                                    "left": "10",
+                                                    "isLinked": true
+                                                },
+                                                "member_image_border_radius": {
+                                                    "unit": "%",
+                                                    "top": "100",
+                                                    "right": "100",
+                                                    "bottom": "100",
+                                                    "left": "100",
+                                                    "isLinked": true
+                                                },
+                                                "name_divider_style": "dotted",
+                                                "name_divider_width": {
+                                                    "unit": "px",
+                                                    "size": 30,
+                                                    "sizes": []
+                                                },
+                                                "name_divider_height": {
+                                                    "unit": "px",
+                                                    "size": 6,
+                                                    "sizes": []
+                                                },
+                                                "name_divider_margin": {
+                                                    "unit": "px",
+                                                    "size": 12,
+                                                    "sizes": []
+                                                },
+                                                "member_position_margin": {
+                                                    "unit": "px",
+                                                    "size": 15,
+                                                    "sizes": []
+                                                },
+                                                "member_icons_gap": {
+                                                    "unit": "px",
+                                                    "size": 24,
+                                                    "sizes": []
+                                                },
+                                                "member_icon_size": {
+                                                    "unit": "px",
+                                                    "size": 18,
+                                                    "sizes": []
+                                                },
+                                                "member_links_icons_color": "#FFB400",
+                                                "__globals__": {
+                                                    "member_image_border_color": "globals\/colors?id=accent",
+                                                    "member_position_text_color": "globals\/colors?id=accent",
+                                                    "member_position_typography_typography": "globals\/typography?id=text",
+                                                    "member_links_icons_color": "globals\/colors?id=accent",
+                                                    "member_name_typography_typography": "globals\/typography?id=primary",
+                                                    "member_name_text_color": "globals\/colors?id=primary",
+                                                    "member_links_icons_color_hover": "globals\/colors?id=primary",
+                                                    "overlay_background_color": "globals\/colors?id=secondary",
+                                                    "member_description_text_color": "globals\/colors?id=text",
+                                                    "member_description_typography_typography": "globals\/typography?id=text"
+                                                },
+                                                "member_name_text_color": "#BA33C1",
+                                                "image_size": "full",
+                                                "name_html_tag": "h6",
+                                                "overlay_background_background": "classic",
+                                                "overlay_opacity": {
+                                                    "unit": "px",
+                                                    "size": 0.59999999999999997779553950749686919152736663818359375,
+                                                    "sizes": []
+                                                },
+                                                "team_member_description": "<p>Curabitur ac purus vel sem mattis eleifend quis non ligula.<\/p>",
+                                                "member_description_margin": {
+                                                    "unit": "px",
+                                                    "size": 28,
+                                                    "sizes": []
+                                                },
+                                                "_padding": {
+                                                    "unit": "em",
+                                                    "top": "1",
+                                                    "right": "1",
+                                                    "bottom": "1",
+                                                    "left": "1",
+                                                    "isLinked": true
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "pp-team-member",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "12eba87d",
+                                    "settings": {
+                                        "_column_size": 33,
+                                        "_inline_size": null,
+                                        "padding": {
+                                            "unit": "em",
+                                            "top": "1",
+                                            "right": "1",
+                                            "bottom": "1",
+                                            "left": "1",
+                                            "isLinked": true
+                                        }
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "3392ffa7",
+                                            "settings": {
+                                                "image": {
+                                                    "id": 397,
+                                                    "url": "http:\/\/elementor.doodlias.com\/startup\/wp-content\/uploads\/sites\/17\/2020\/11\/team6.jpg"
+                                                },
+                                                "team_member_name": "Jared Patrick",
+                                                "team_member_position": "Engineering",
+                                                "team_member_social": [
+                                                    {
+                                                        "select_social_icon": {
+                                                            "value": "fab fa-facebook-f",
+                                                            "library": "fa-brands"
+                                                        },
+                                                        "social_link": {
+                                                            "url": "#",
+                                                            "is_external": "",
+                                                            "nofollow": "",
+                                                            "custom_attributes": ""
+                                                        },
+                                                        "_id": "1cca3dc"
+                                                    },
+                                                    {
+                                                        "select_social_icon": {
+                                                            "value": "fab fa-twitter",
+                                                            "library": "fa-brands"
+                                                        },
+                                                        "social_link": {
+                                                            "url": "#",
+                                                            "is_external": "",
+                                                            "nofollow": "",
+                                                            "custom_attributes": ""
+                                                        },
+                                                        "_id": "8064f13"
+                                                    },
+                                                    {
+                                                        "select_social_icon": {
+                                                            "value": "fab fa-instagram",
+                                                            "library": "fa-brands"
+                                                        },
+                                                        "social_link": {
+                                                            "url": "#",
+                                                            "is_external": "",
+                                                            "nofollow": "",
+                                                            "custom_attributes": ""
+                                                        },
+                                                        "_id": "45346bb"
+                                                    }
+                                                ],
+                                                "member_box_content_padding": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "member_name_margin": {
+                                                    "unit": "px",
+                                                    "size": 5,
+                                                    "sizes": []
+                                                },
+                                                "member_position_text_color": "#54595F",
+                                                "pp_display_conditions": [
+                                                    {
+                                                        "pp_condition_key": "authentication",
+                                                        "pp_condition_operator": "is",
+                                                        "pp_condition_authentication_value": "authenticated",
+                                                        "_id": "cff69c1",
+                                                        "pp_condition_user_value": "",
+                                                        "pp_condition_role_value": "subscriber",
+                                                        "pp_condition_page_value": "",
+                                                        "pp_condition_post_value": "",
+                                                        "pp_condition_static_page_value": "home",
+                                                        "pp_condition_post_type_value": "",
+                                                        "pp_condition_taxonomy_archive_value": "",
+                                                        "pp_condition_term_archive_value": "",
+                                                        "pp_condition_post_type_archive_value": "",
+                                                        "pp_condition_date_archive_value": "",
+                                                        "pp_condition_author_archive_value": "",
+                                                        "pp_condition_search_results_value": "",
+                                                        "pp_condition_date_value": "2020-06-27 to 2020-07-03",
+                                                        "pp_condition_date_time_before_value": "2020-07-03 05:23",
+                                                        "pp_condition_time_value": "",
+                                                        "pp_condition_day_value": "1",
+                                                        "pp_condition_os_value": "iphone",
+                                                        "pp_condition_browser_value": "ie",
+                                                        "pp_condition_search-bot_value": "all_search_bots"
+                                                    }
+                                                ],
+                                                "member_title_divider": "",
+                                                "member_position_divider": "",
+                                                "member_box_alignment": "center",
+                                                "member_image_width": {
+                                                    "unit": "%",
+                                                    "size": "",
+                                                    "sizes": []
+                                                },
+                                                "member_image_border_border": "solid",
+                                                "member_image_border_width": {
+                                                    "unit": "px",
+                                                    "top": "10",
+                                                    "right": "10",
+                                                    "bottom": "10",
+                                                    "left": "10",
+                                                    "isLinked": true
+                                                },
+                                                "member_image_border_radius": {
+                                                    "unit": "%",
+                                                    "top": "100",
+                                                    "right": "100",
+                                                    "bottom": "100",
+                                                    "left": "100",
+                                                    "isLinked": true
+                                                },
+                                                "name_divider_style": "dotted",
+                                                "name_divider_width": {
+                                                    "unit": "px",
+                                                    "size": 30,
+                                                    "sizes": []
+                                                },
+                                                "name_divider_height": {
+                                                    "unit": "px",
+                                                    "size": 6,
+                                                    "sizes": []
+                                                },
+                                                "name_divider_margin": {
+                                                    "unit": "px",
+                                                    "size": 12,
+                                                    "sizes": []
+                                                },
+                                                "member_position_margin": {
+                                                    "unit": "px",
+                                                    "size": 15,
+                                                    "sizes": []
+                                                },
+                                                "member_icons_gap": {
+                                                    "unit": "px",
+                                                    "size": 24,
+                                                    "sizes": []
+                                                },
+                                                "member_icon_size": {
+                                                    "unit": "px",
+                                                    "size": 18,
+                                                    "sizes": []
+                                                },
+                                                "member_links_icons_color": "#FFB400",
+                                                "__globals__": {
+                                                    "member_image_border_color": "globals\/colors?id=accent",
+                                                    "member_position_text_color": "globals\/colors?id=accent",
+                                                    "member_position_typography_typography": "globals\/typography?id=text",
+                                                    "member_links_icons_color": "globals\/colors?id=accent",
+                                                    "member_name_typography_typography": "globals\/typography?id=primary",
+                                                    "member_name_text_color": "globals\/colors?id=primary",
+                                                    "member_links_icons_color_hover": "globals\/colors?id=primary",
+                                                    "overlay_background_color": "globals\/colors?id=secondary",
+                                                    "member_description_text_color": "globals\/colors?id=text",
+                                                    "member_description_typography_typography": "globals\/typography?id=text"
+                                                },
+                                                "member_name_text_color": "#BA33C1",
+                                                "image_size": "full",
+                                                "name_html_tag": "h6",
+                                                "overlay_background_background": "classic",
+                                                "overlay_opacity": {
+                                                    "unit": "px",
+                                                    "size": 0.59999999999999997779553950749686919152736663818359375,
+                                                    "sizes": []
+                                                },
+                                                "team_member_description": "<p>Curabitur ac purus vel sem mattis eleifend quis non ligula.<\/p>",
+                                                "member_description_margin": {
+                                                    "unit": "px",
+                                                    "size": 28,
+                                                    "sizes": []
+                                                },
+                                                "_padding": {
+                                                    "unit": "em",
+                                                    "top": "1",
+                                                    "right": "1",
+                                                    "bottom": "1",
+                                                    "left": "1",
+                                                    "isLinked": true
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "pp-team-member",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "555a517d",
+                                    "settings": {
+                                        "_column_size": 33,
+                                        "_inline_size": null,
+                                        "padding": {
+                                            "unit": "em",
+                                            "top": "1",
+                                            "right": "1",
+                                            "bottom": "1",
+                                            "left": "1",
+                                            "isLinked": true
+                                        }
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "2fbc6e5d",
+                                            "settings": {
+                                                "image": {
+                                                    "id": 395,
+                                                    "url": "http:\/\/elementor.doodlias.com\/startup\/wp-content\/uploads\/sites\/17\/2020\/11\/team4.jpg"
+                                                },
+                                                "team_member_name": "Andrey Gorbachev",
+                                                "team_member_position": "Media",
+                                                "team_member_social": [
+                                                    {
+                                                        "select_social_icon": {
+                                                            "value": "fab fa-facebook-f",
+                                                            "library": "fa-brands"
+                                                        },
+                                                        "social_link": {
+                                                            "url": "#",
+                                                            "is_external": "",
+                                                            "nofollow": "",
+                                                            "custom_attributes": ""
+                                                        },
+                                                        "_id": "1cca3dc"
+                                                    },
+                                                    {
+                                                        "select_social_icon": {
+                                                            "value": "fab fa-twitter",
+                                                            "library": "fa-brands"
+                                                        },
+                                                        "social_link": {
+                                                            "url": "#",
+                                                            "is_external": "",
+                                                            "nofollow": "",
+                                                            "custom_attributes": ""
+                                                        },
+                                                        "_id": "8064f13"
+                                                    },
+                                                    {
+                                                        "select_social_icon": {
+                                                            "value": "fab fa-instagram",
+                                                            "library": "fa-brands"
+                                                        },
+                                                        "social_link": {
+                                                            "url": "#",
+                                                            "is_external": "",
+                                                            "nofollow": "",
+                                                            "custom_attributes": ""
+                                                        },
+                                                        "_id": "45346bb"
+                                                    }
+                                                ],
+                                                "member_box_content_padding": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "member_name_margin": {
+                                                    "unit": "px",
+                                                    "size": 5,
+                                                    "sizes": []
+                                                },
+                                                "member_position_text_color": "#54595F",
+                                                "pp_display_conditions": [
+                                                    {
+                                                        "pp_condition_key": "authentication",
+                                                        "pp_condition_operator": "is",
+                                                        "pp_condition_authentication_value": "authenticated",
+                                                        "_id": "cff69c1",
+                                                        "pp_condition_user_value": "",
+                                                        "pp_condition_role_value": "subscriber",
+                                                        "pp_condition_page_value": "",
+                                                        "pp_condition_post_value": "",
+                                                        "pp_condition_static_page_value": "home",
+                                                        "pp_condition_post_type_value": "",
+                                                        "pp_condition_taxonomy_archive_value": "",
+                                                        "pp_condition_term_archive_value": "",
+                                                        "pp_condition_post_type_archive_value": "",
+                                                        "pp_condition_date_archive_value": "",
+                                                        "pp_condition_author_archive_value": "",
+                                                        "pp_condition_search_results_value": "",
+                                                        "pp_condition_date_value": "2020-06-27 to 2020-07-03",
+                                                        "pp_condition_date_time_before_value": "2020-07-03 05:23",
+                                                        "pp_condition_time_value": "",
+                                                        "pp_condition_day_value": "1",
+                                                        "pp_condition_os_value": "iphone",
+                                                        "pp_condition_browser_value": "ie",
+                                                        "pp_condition_search-bot_value": "all_search_bots"
+                                                    }
+                                                ],
+                                                "member_title_divider": "",
+                                                "member_position_divider": "",
+                                                "member_box_alignment": "center",
+                                                "member_image_width": {
+                                                    "unit": "%",
+                                                    "size": "",
+                                                    "sizes": []
+                                                },
+                                                "member_image_border_border": "solid",
+                                                "member_image_border_width": {
+                                                    "unit": "px",
+                                                    "top": "10",
+                                                    "right": "10",
+                                                    "bottom": "10",
+                                                    "left": "10",
+                                                    "isLinked": true
+                                                },
+                                                "member_image_border_radius": {
+                                                    "unit": "%",
+                                                    "top": "100",
+                                                    "right": "100",
+                                                    "bottom": "100",
+                                                    "left": "100",
+                                                    "isLinked": true
+                                                },
+                                                "name_divider_style": "dotted",
+                                                "name_divider_width": {
+                                                    "unit": "px",
+                                                    "size": 30,
+                                                    "sizes": []
+                                                },
+                                                "name_divider_height": {
+                                                    "unit": "px",
+                                                    "size": 6,
+                                                    "sizes": []
+                                                },
+                                                "name_divider_margin": {
+                                                    "unit": "px",
+                                                    "size": 12,
+                                                    "sizes": []
+                                                },
+                                                "member_position_margin": {
+                                                    "unit": "px",
+                                                    "size": 15,
+                                                    "sizes": []
+                                                },
+                                                "member_icons_gap": {
+                                                    "unit": "px",
+                                                    "size": 24,
+                                                    "sizes": []
+                                                },
+                                                "member_icon_size": {
+                                                    "unit": "px",
+                                                    "size": 18,
+                                                    "sizes": []
+                                                },
+                                                "member_links_icons_color": "#FFB400",
+                                                "__globals__": {
+                                                    "member_image_border_color": "globals\/colors?id=accent",
+                                                    "member_position_text_color": "globals\/colors?id=accent",
+                                                    "member_position_typography_typography": "globals\/typography?id=text",
+                                                    "member_links_icons_color": "globals\/colors?id=accent",
+                                                    "member_name_typography_typography": "globals\/typography?id=primary",
+                                                    "member_name_text_color": "globals\/colors?id=primary",
+                                                    "member_links_icons_color_hover": "globals\/colors?id=primary",
+                                                    "overlay_background_color": "globals\/colors?id=secondary",
+                                                    "member_description_text_color": "globals\/colors?id=text",
+                                                    "member_description_typography_typography": "globals\/typography?id=text"
+                                                },
+                                                "member_name_text_color": "#BA33C1",
+                                                "image_size": "full",
+                                                "name_html_tag": "h6",
+                                                "overlay_background_background": "classic",
+                                                "overlay_opacity": {
+                                                    "unit": "px",
+                                                    "size": 0.59999999999999997779553950749686919152736663818359375,
+                                                    "sizes": []
+                                                },
+                                                "team_member_description": "<p>Curabitur ac purus vel sem mattis eleifend quis non ligula.<\/p>",
+                                                "member_description_margin": {
+                                                    "unit": "px",
+                                                    "size": 28,
+                                                    "sizes": []
+                                                },
+                                                "_padding": {
+                                                    "unit": "em",
+                                                    "top": "1",
+                                                    "right": "1",
+                                                    "bottom": "1",
+                                                    "left": "1",
+                                                    "isLinked": true
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "pp-team-member",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "section"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "5313fdce",
+            "settings": {
+                "background_background": "classic",
+                "background_repeat": "no-repeat",
+                "background_size": "cover",
+                "background_overlay_background": "classic",
+                "background_overlay_opacity": {
+                    "unit": "px",
+                    "size": 0.8000000000000000444089209850062616169452667236328125,
+                    "sizes": []
+                },
+                "padding": {
+                    "unit": "em",
+                    "top": "6",
+                    "right": "1",
+                    "bottom": "6",
+                    "left": "1",
+                    "isLinked": false
+                },
+                "__globals__": {
+                    "background_overlay_color": "globals\/colors?id=accent",
+                    "background_color": "globals\/colors?id=accent"
+                },
+                "background_overlay_image": {
+                    "url": "http:\/\/elementor.doodlias.com\/startup\/wp-content\/uploads\/sites\/17\/2020\/11\/subsc.jpg",
+                    "id": 70
+                },
+                "background_overlay_repeat": "no-repeat",
+                "background_overlay_size": "cover",
+                "overlay_blend_mode": "overlay"
+            },
+            "elements": [
+                {
+                    "id": "5ab5b3c4",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null,
+                        "_inline_size_tablet": 100,
+                        "padding": {
+                            "unit": "em",
+                            "top": "1",
+                            "right": "1",
+                            "bottom": "1",
+                            "left": "1",
+                            "isLinked": true
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "2ec042ef",
+                            "settings": {
+                                "title": "Subscribe to \nour Newsletter ",
+                                "header_size": "h3",
+                                "__globals__": {
+                                    "typography_typography": "globals\/typography?id=primary",
+                                    "title_color": "globals\/colors?id=secondary"
+                                },
+                                "align": "center"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "5df596eb",
+                            "settings": {
+                                "text_color": "#FFFFFF",
+                                "__globals__": {
+                                    "typography_typography": "globals\/typography?id=text"
+                                },
+                                "editor": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce et enim sit amet nisl interdum vulputate nec vel nisi. Sed sit amet magna lectus. Quisque non vulputate libero.\u00a0<\/p>",
+                                "align": "center"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "3ec3ae07",
+                            "settings": {
+                                "contact_form_list": "130",
+                                "input_spacing": {
+                                    "unit": "px",
+                                    "size": 20,
+                                    "sizes": []
+                                },
+                                "field_padding": {
+                                    "unit": "px",
+                                    "top": "18",
+                                    "right": "18",
+                                    "bottom": "18",
+                                    "left": "18",
+                                    "isLinked": true
+                                },
+                                "field_radius": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": true
+                                },
+                                "button_width": {
+                                    "unit": "px",
+                                    "size": "",
+                                    "sizes": []
+                                },
+                                "button_border_normal_border": "solid",
+                                "button_border_normal_width": {
+                                    "unit": "px",
+                                    "top": "2",
+                                    "right": "2",
+                                    "bottom": "2",
+                                    "left": "2",
+                                    "isLinked": true
+                                },
+                                "button_padding": {
+                                    "unit": "px",
+                                    "top": "18",
+                                    "right": "32",
+                                    "bottom": "18",
+                                    "left": "32",
+                                    "isLinked": false
+                                },
+                                "button_bg_color_hover": "#FFFFFF00",
+                                "button_text_color_hover": "#FFFFFF",
+                                "button_border_color_hover": "#FFFFFF",
+                                "__globals__": {
+                                    "button_border_normal_color": "globals\/colors?id=primary",
+                                    "button_bg_color_normal": "globals\/colors?id=primary",
+                                    "field_typography_typography": "globals\/typography?id=text",
+                                    "field_border_color": "globals\/colors?id=secondary",
+                                    "field_bg": "globals\/colors?id=secondary",
+                                    "input_border_focus_color": "globals\/colors?id=primary"
+                                },
+                                "heading_alignment": "center",
+                                "input_width": {
+                                    "unit": "%",
+                                    "size": 57,
+                                    "sizes": []
+                                },
+                                "button_align": "center",
+                                "input_width_tablet": {
+                                    "unit": "%",
+                                    "size": 100,
+                                    "sizes": []
+                                },
+                                "input_width_mobile": {
+                                    "unit": "%",
+                                    "size": 100,
+                                    "sizes": []
+                                },
+                                "button_width_mobile": {
+                                    "unit": "%",
+                                    "size": 100,
+                                    "sizes": []
+                                },
+                                "field_border_border": "solid",
+                                "field_border_width": {
+                                    "unit": "px",
+                                    "top": "1",
+                                    "right": "1",
+                                    "bottom": "1",
+                                    "left": "1",
+                                    "isLinked": true
+                                },
+                                "field_border_color": "#FFFFFF",
+                                "field_typography_typography": "custom",
+                                "field_typography_font_family": "Poppins",
+                                "field_typography_font_weight": "400",
+                                "input_border_focus_border": "solid",
+                                "input_border_focus_width": {
+                                    "unit": "px",
+                                    "top": "1",
+                                    "right": "1",
+                                    "bottom": "1",
+                                    "left": "1",
+                                    "isLinked": true
+                                },
+                                "button_bg_color_normal": "#363636",
+                                "button_border_normal_color": "#363636"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "pp-contact-form-7",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        }
+    ],
+    "page_settings": {
+        "hide_title": "yes",
+        "eael_ext_toc_title": "Table of Contents",
+        "template": "elementor_header_footer"
+    }
+}

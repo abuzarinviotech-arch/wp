@@ -1,0 +1,1113 @@
+{
+    "manifest_version": "1.0.18",
+    "title": "Starch | Responsive Startup Business Web",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "http:\/\/elementor.doodlias.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.png",
+            "source": "templates\/header.json",
+            "preview_url": "http:\/\/elementor.doodlias.com\/starch\/template-kit\/header\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.jpg",
+            "source": "templates\/footer.json",
+            "preview_url": "http:\/\/elementor.doodlias.com\/starch\/template-kit\/footer\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact",
+            "screenshot": "screenshots\/contact.jpg",
+            "source": "templates\/contact.json",
+            "preview_url": "http:\/\/elementor.doodlias.com\/starch\/template-kit\/contact\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "FAQ",
+            "screenshot": "screenshots\/faq.jpg",
+            "source": "templates\/faq.json",
+            "preview_url": "http:\/\/elementor.doodlias.com\/starch\/template-kit\/faq\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Testimonial",
+            "screenshot": "screenshots\/testimonial.jpg",
+            "source": "templates\/testimonial.json",
+            "preview_url": "http:\/\/elementor.doodlias.com\/starch\/template-kit\/testimonial\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Our Team",
+            "screenshot": "screenshots\/our-team.jpg",
+            "source": "templates\/our-team.json",
+            "preview_url": "http:\/\/elementor.doodlias.com\/starch\/template-kit\/our-team\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Pricing",
+            "screenshot": "screenshots\/pricing.jpg",
+            "source": "templates\/pricing.json",
+            "preview_url": "http:\/\/elementor.doodlias.com\/starch\/template-kit\/pricing\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Gallery",
+            "screenshot": "screenshots\/gallery.jpg",
+            "source": "templates\/gallery.json",
+            "preview_url": "http:\/\/elementor.doodlias.com\/starch\/template-kit\/gallery\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home",
+            "screenshot": "screenshots\/home.jpg",
+            "source": "templates\/home.json",
+            "preview_url": "http:\/\/elementor.doodlias.com\/starch\/template-kit\/home\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Single Services",
+            "screenshot": "screenshots\/single-services.jpg",
+            "source": "templates\/single-services.json",
+            "preview_url": "http:\/\/elementor.doodlias.com\/starch\/template-kit\/single-services\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Services",
+            "screenshot": "screenshots\/services.jpg",
+            "source": "templates\/services.json",
+            "preview_url": "http:\/\/elementor.doodlias.com\/starch\/template-kit\/services\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About",
+            "screenshot": "screenshots\/about.jpg",
+            "source": "templates\/about.json",
+            "preview_url": "http:\/\/elementor.doodlias.com\/starch\/template-kit\/about\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor",
+            "version": "3.1.1",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Elementor - Header, Footer & Blocks",
+            "version": "1.5.6",
+            "file": "header-footer-elementor\/header-footer-elementor.php",
+            "author": "Brainstorm Force, Nikhil Chavan"
+        },
+        {
+            "name": "Contact Form 7",
+            "version": "5.3.2",
+            "file": "contact-form-7\/wp-contact-form-7.php",
+            "author": "Takayuki Miyoshi"
+        },
+        {
+            "name": "PowerPack Lite for Elementor",
+            "version": "2.2.2",
+            "file": "powerpack-lite-for-elementor\/powerpack-lite-elementor.php",
+            "author": "IdeaBox Creations"
+        }
+    ],
+    "images": [
+        {
+            "filename": "logohead2.png",
+            "thumbnail_url": "http:\/\/elementor.doodlias.com\/starch\/wp-content\/uploads\/sites\/17\/2020\/12\/logohead2.png",
+            "templates": [
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                }
+            ],
+            "filesize": 3077,
+            "dimensions": [
+                139,
+                34
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "logofoot2.png",
+            "thumbnail_url": "http:\/\/elementor.doodlias.com\/starch\/wp-content\/uploads\/sites\/17\/2020\/12\/logofoot2.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 3187,
+            "dimensions": [
+                139,
+                34
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "header.jpg",
+            "thumbnail_url": "http:\/\/elementor.doodlias.com\/starch\/wp-content\/uploads\/sites\/17\/2020\/11\/header-600x298.jpg",
+            "templates": [
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/testimonial.json",
+                    "name": "Testimonial"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/single-services.json",
+                    "name": "Single Services"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 181090,
+            "dimensions": [
+                1600,
+                794
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/young-beautiful-women-dressed-according-to-office--PVU5FMT"
+        },
+        {
+            "filename": "blank.jpg",
+            "thumbnail_url": "http:\/\/elementor.doodlias.com\/starch\/wp-content\/uploads\/sites\/17\/2020\/11\/blank-600x298.jpg",
+            "templates": [
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/testimonial.json",
+                    "name": "Testimonial"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/single-services.json",
+                    "name": "Single Services"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 16128,
+            "dimensions": [
+                1600,
+                794
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "team2.jpg",
+            "thumbnail_url": "http:\/\/elementor.doodlias.com\/starch\/wp-content\/uploads\/sites\/17\/2020\/11\/team2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/testimonial.json",
+                    "name": "Testimonial"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/single-services.json",
+                    "name": "Single Services"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 14789,
+            "dimensions": [
+                225,
+                224
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/young-woman-in-office-PYL86EX"
+        },
+        {
+            "filename": "team1.jpg",
+            "thumbnail_url": "http:\/\/elementor.doodlias.com\/starch\/wp-content\/uploads\/sites\/17\/2020\/11\/team1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/testimonial.json",
+                    "name": "Testimonial"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/single-services.json",
+                    "name": "Single Services"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 12548,
+            "dimensions": [
+                225,
+                224
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/businessman-walking-outdoors-PJ3W3NQ"
+        },
+        {
+            "filename": "subsc.jpg",
+            "thumbnail_url": "http:\/\/elementor.doodlias.com\/starch\/wp-content\/uploads\/sites\/17\/2020\/11\/subsc-600x177.jpg",
+            "templates": [
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/testimonial.json",
+                    "name": "Testimonial"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "Pricing"
+                },
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/single-services.json",
+                    "name": "Single Services"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 180952,
+            "dimensions": [
+                1600,
+                471
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/business-team-with-computers-working-at-office-PF8MV9B"
+        },
+        {
+            "filename": "team5.jpg",
+            "thumbnail_url": "http:\/\/elementor.doodlias.com\/starch\/wp-content\/uploads\/sites\/17\/2020\/11\/team5.jpg",
+            "templates": [
+                {
+                    "source": "templates\/testimonial.json",
+                    "name": "Testimonial"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 11273,
+            "dimensions": [
+                225,
+                224
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/young-business-woman-smiling-against-white-backgro-PECTKL8"
+        },
+        {
+            "filename": "team6.jpg",
+            "thumbnail_url": "http:\/\/elementor.doodlias.com\/starch\/wp-content\/uploads\/sites\/17\/2020\/11\/team6.jpg",
+            "templates": [
+                {
+                    "source": "templates\/testimonial.json",
+                    "name": "Testimonial"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 12628,
+            "dimensions": [
+                225,
+                224
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/businessman-standing-outside-the-office-with-arms--PVTSDB8"
+        },
+        {
+            "filename": "team4.jpg",
+            "thumbnail_url": "http:\/\/elementor.doodlias.com\/starch\/wp-content\/uploads\/sites\/17\/2020\/11\/team4.jpg",
+            "templates": [
+                {
+                    "source": "templates\/testimonial.json",
+                    "name": "Testimonial"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 13451,
+            "dimensions": [
+                225,
+                224
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/confident-businessman-QWVC4G6"
+        },
+        {
+            "filename": "team3.jpg",
+            "thumbnail_url": "http:\/\/elementor.doodlias.com\/starch\/wp-content\/uploads\/sites\/17\/2020\/11\/team3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/testimonial.json",
+                    "name": "Testimonial"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 14625,
+            "dimensions": [
+                225,
+                224
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/business-woman-working-on-mobile-phone-WZS9VF4"
+        },
+        {
+            "filename": "gal1.jpg",
+            "thumbnail_url": "http:\/\/elementor.doodlias.com\/starch\/wp-content\/uploads\/sites\/17\/2020\/11\/gal1-600x451.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 94511,
+            "dimensions": [
+                746,
+                561
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/team-of-startup-project-PTK2M4R"
+        },
+        {
+            "filename": "gal2.jpg",
+            "thumbnail_url": "http:\/\/elementor.doodlias.com\/starch\/wp-content\/uploads\/sites\/17\/2020\/11\/gal2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 24997,
+            "dimensions": [
+                374,
+                270
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/cheerful-young-woman-posing-in-creative-agency-P8NMKLX"
+        },
+        {
+            "filename": "gal3.jpg",
+            "thumbnail_url": "http:\/\/elementor.doodlias.com\/starch\/wp-content\/uploads\/sites\/17\/2020\/11\/gal3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 28027,
+            "dimensions": [
+                374,
+                270
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/young-beautiful-women-dressed-according-to-office--PVU5FMT"
+        },
+        {
+            "filename": "gal4.jpg",
+            "thumbnail_url": "http:\/\/elementor.doodlias.com\/starch\/wp-content\/uploads\/sites\/17\/2020\/11\/gal4.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 22392,
+            "dimensions": [
+                374,
+                270
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/creative-business-people-working-on-business-proje-HLY3QZC"
+        },
+        {
+            "filename": "gal5.jpg",
+            "thumbnail_url": "http:\/\/elementor.doodlias.com\/starch\/wp-content\/uploads\/sites\/17\/2020\/11\/gal5.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 22736,
+            "dimensions": [
+                374,
+                270
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/successful-company-with-happy-workers-2ERMN6X"
+        },
+        {
+            "filename": "gal6a.jpg",
+            "thumbnail_url": "http:\/\/elementor.doodlias.com\/starch\/wp-content\/uploads\/sites\/17\/2020\/11\/gal6a.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 40754,
+            "dimensions": [
+                374,
+                561
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/confident-man-working-on-startup-PT387M4"
+        },
+        {
+            "filename": "gal7.jpg",
+            "thumbnail_url": "http:\/\/elementor.doodlias.com\/starch\/wp-content\/uploads\/sites\/17\/2020\/11\/gal7.jpg",
+            "templates": [
+                {
+                    "source": "templates\/gallery.json",
+                    "name": "Gallery"
+                }
+            ],
+            "filesize": 39474,
+            "dimensions": [
+                374,
+                561
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/young-entrepreneur-planning-startup-PF634W9"
+        },
+        {
+            "filename": "header2a.jpg",
+            "thumbnail_url": "http:\/\/elementor.doodlias.com\/starch\/wp-content\/uploads\/sites\/17\/2020\/11\/header2a-600x298.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 276978,
+            "dimensions": [
+                1600,
+                794
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/business-meeting-and-teamwork-by-business-people-DC2U5L2"
+        },
+        {
+            "filename": "header3a.jpg",
+            "thumbnail_url": "http:\/\/elementor.doodlias.com\/starch\/wp-content\/uploads\/sites\/17\/2020\/11\/header3a-600x298.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 248653,
+            "dimensions": [
+                1600,
+                794
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/happy-creative-team-in-office-business-startup-des-73ZC9YM"
+        },
+        {
+            "filename": "abhome.jpg",
+            "thumbnail_url": "http:\/\/elementor.doodlias.com\/starch\/wp-content\/uploads\/sites\/17\/2020\/11\/abhome.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 28137,
+            "dimensions": [
+                419,
+                336
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/successful-company-with-happy-workers-2ERMN6X"
+        },
+        {
+            "filename": "ab2.jpg",
+            "thumbnail_url": "http:\/\/elementor.doodlias.com\/starch\/wp-content\/uploads\/sites\/17\/2020\/11\/ab2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 23591,
+            "dimensions": [
+                290,
+                370
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/creative-business-people-working-on-business-proje-HLY3QZC"
+        },
+        {
+            "filename": "serv1.jpg",
+            "thumbnail_url": "http:\/\/elementor.doodlias.com\/starch\/wp-content\/uploads\/sites\/17\/2020\/11\/serv1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 50516,
+            "dimensions": [
+                400,
+                646
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/confident-man-working-on-startup-PT387M4"
+        },
+        {
+            "filename": "serv2.jpg",
+            "thumbnail_url": "http:\/\/elementor.doodlias.com\/starch\/wp-content\/uploads\/sites\/17\/2020\/11\/serv2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 56856,
+            "dimensions": [
+                400,
+                646
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/cheerful-young-woman-posing-in-creative-agency-P8NMKLX"
+        },
+        {
+            "filename": "serv3rev.jpg",
+            "thumbnail_url": "http:\/\/elementor.doodlias.com\/starch\/wp-content\/uploads\/sites\/17\/2020\/12\/serv3rev.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 44028,
+            "dimensions": [
+                400,
+                646
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/smiling-businesswoman-and-business-partner-with-pa-67M6VRB"
+        },
+        {
+            "filename": "serv4.jpg",
+            "thumbnail_url": "http:\/\/elementor.doodlias.com\/starch\/wp-content\/uploads\/sites\/17\/2020\/11\/serv4.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 40511,
+            "dimensions": [
+                400,
+                646
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/coworkers-planning-startup-goals-EFLGDNQ"
+        },
+        {
+            "filename": "srvcrc.png",
+            "thumbnail_url": "http:\/\/elementor.doodlias.com\/starch\/wp-content\/uploads\/sites\/17\/2020\/11\/srvcrc.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 325097,
+            "dimensions": [
+                483,
+                483
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/team-of-startup-project-PTK2M4R"
+        },
+        {
+            "filename": "l1.jpg",
+            "thumbnail_url": "http:\/\/elementor.doodlias.com\/starch\/wp-content\/uploads\/sites\/17\/2020\/11\/l1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/single-services.json",
+                    "name": "Single Services"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 5276,
+            "dimensions": [
+                224,
+                181
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/eco-talk-corporate-logo-vector-template-HGQE78P"
+        },
+        {
+            "filename": "l2.jpg",
+            "thumbnail_url": "http:\/\/elementor.doodlias.com\/starch\/wp-content\/uploads\/sites\/17\/2020\/11\/l2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/single-services.json",
+                    "name": "Single Services"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 5924,
+            "dimensions": [
+                224,
+                181
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/nighttale-children-foundation-logo-vector-template-P4T3ALN"
+        },
+        {
+            "filename": "l3.jpg",
+            "thumbnail_url": "http:\/\/elementor.doodlias.com\/starch\/wp-content\/uploads\/sites\/17\/2020\/11\/l3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/single-services.json",
+                    "name": "Single Services"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 5032,
+            "dimensions": [
+                224,
+                181
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/digibook-corporate-logo-vector-template-4PZRJWH"
+        },
+        {
+            "filename": "lg4.jpg",
+            "thumbnail_url": "http:\/\/elementor.doodlias.com\/starch\/wp-content\/uploads\/sites\/17\/2020\/11\/lg4.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/single-services.json",
+                    "name": "Single Services"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 6246,
+            "dimensions": [
+                224,
+                181
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/love-eco-corporate-logo-vector-template-2BTUB6C"
+        },
+        {
+            "filename": "ssr.jpg",
+            "thumbnail_url": "http:\/\/elementor.doodlias.com\/starch\/wp-content\/uploads\/sites\/17\/2020\/11\/ssr.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-services.json",
+                    "name": "Single Services"
+                }
+            ],
+            "filesize": 42624,
+            "dimensions": [
+                356,
+                458
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/team-of-startup-project-PTK2M4R"
+        },
+        {
+            "filename": "ssas.jpg",
+            "thumbnail_url": "http:\/\/elementor.doodlias.com\/starch\/wp-content\/uploads\/sites\/17\/2020\/11\/ssas-600x353.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-services.json",
+                    "name": "Single Services"
+                }
+            ],
+            "filesize": 48863,
+            "dimensions": [
+                747,
+                439
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/creative-business-people-working-on-business-proje-HLY3QZC"
+        },
+        {
+            "filename": "se1.jpg",
+            "thumbnail_url": "http:\/\/elementor.doodlias.com\/starch\/wp-content\/uploads\/sites\/17\/2020\/11\/se1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 38506,
+            "dimensions": [
+                549,
+                331
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/confident-man-working-on-startup-PT387M4"
+        },
+        {
+            "filename": "se2.jpg",
+            "thumbnail_url": "http:\/\/elementor.doodlias.com\/starch\/wp-content\/uploads\/sites\/17\/2020\/11\/se2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 37016,
+            "dimensions": [
+                549,
+                331
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/cheerful-young-woman-posing-in-creative-agency-P8NMKLX"
+        },
+        {
+            "filename": "se3rev.jpg",
+            "thumbnail_url": "http:\/\/elementor.doodlias.com\/starch\/wp-content\/uploads\/sites\/17\/2020\/11\/se3rev.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 40796,
+            "dimensions": [
+                549,
+                331
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/smiling-businesswoman-and-business-partner-with-pa-67M6VRB"
+        },
+        {
+            "filename": "se4.jpg",
+            "thumbnail_url": "http:\/\/elementor.doodlias.com\/starch\/wp-content\/uploads\/sites\/17\/2020\/11\/se4.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 39852,
+            "dimensions": [
+                549,
+                331
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/coworkers-planning-startup-goals-EFLGDNQ"
+        },
+        {
+            "filename": "about3.jpg",
+            "thumbnail_url": "http:\/\/elementor.doodlias.com\/starch\/wp-content\/uploads\/sites\/17\/2020\/11\/about3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 59039,
+            "dimensions": [
+                556,
+                371
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/team-of-startup-project-PTK2M4R"
+        }
+    ]
+}
